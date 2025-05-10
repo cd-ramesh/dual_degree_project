@@ -1,1 +1,1 @@
-# dual_degree_project
+# Dual Degree Project
